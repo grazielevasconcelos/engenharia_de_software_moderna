@@ -1,3 +1,6 @@
+# Introdução
+## Exercícios de Fixação 🔗
+
 1. Segundo Frederick Brooks, desenvolvimento de software enfrenta dificuldades essenciais (para as quais não há bala de prata) e acidentais (para as quais existe uma solução melhor). Dê um exemplo de dificuldade acidental que já tenha experimentado ao desenvolver programas, mesmo que pequenos. Sugestão: elas podem estar relacionadas a ferramentas que tenha usado, como compiladores, IDEs, bancos de dados, sistemas operacionais, etc.
 
 - Documentações de API de terceiros que não tinham exemplos na linguagem que estava desenvolvendo e também APIs de terceiros não respeitarem os HTTPs Codes.
